@@ -2,7 +2,7 @@
 
 A responsive and modern role-based dashboard web application built with React, TypeScript, and Tailwind CSS. This project demonstrates secure authentication, dynamic role-based routing, and clean UI components.
 
-## 🚀 Features
+-> FEATURES
 
 - 🔐 Role-based authentication (Admin and Employee)
 - 🎯 Protected routes with access control
@@ -11,13 +11,13 @@ A responsive and modern role-based dashboard web application built with React, T
 - 🎨 Utility-first styling with Tailwind CSS
 - 📁 Clean project structure using TypeScript and Vite
 
-## 🛠️ Tech Stack
+-> TECH STACK 
 
-- **React**
-- **TypeScript**
-- **Vite**
-- **Tailwind CSS**
-- **React Router v6**
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Router v6
 
 
 
